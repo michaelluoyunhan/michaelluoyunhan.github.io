@@ -1,5 +1,3 @@
-remote_theme: alshedivat/al-folio
+theme: jekyll-theme-cayman
 title: Michael Luo's homepage
 description: Hello World
-
-theme: jekyll-theme-cayman
